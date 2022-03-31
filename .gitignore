@@ -1,0 +1,12 @@
+#Ignore Directory tmp
+tmp/
+
+#Files ends with _old
+*_old
+
+#Files ends with _backup
+*_backup
+
+#Ignore Thumbs.db and .DS_Store
+Thumbs.db
+.DS_Store
